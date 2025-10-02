@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    border: 10px solid white;
+    border-radius: 5px;
+    display: flex;
+    height: 670px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.red{
+    background-color: red;
+}
+
+.flash{
+    background-color: white !important;
+}
