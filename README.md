@@ -40,9 +40,6 @@ cd simon-says-game
 
 Open index.html in your preferred web browser.
 
-📱 Mobile Compatibility
-
-The game is designed to be responsive and should work seamlessly on mobile devices.
 
 🎨 Customization
 
